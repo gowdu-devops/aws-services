@@ -4,7 +4,8 @@
 - AWS Console → **WAF & Shield**
 - Click **Create protection pack (Web ACL)**.
 
-![Step1](image24.png)
+<img width="940" height="403" alt="image" src="https://github.com/user-attachments/assets/5a2fe253-4349-4cbd-9bcf-b4d283acdb2b" />
+
 
 ## 2. Tell us about your application
 - **App Category:** Enterprise & business applications
