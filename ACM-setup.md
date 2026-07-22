@@ -15,7 +15,8 @@ Certificate Manager
 
 3. Open **AWS Certificate Manager (ACM)**.
 
-> **Screenshot:** `images/acm-step1.png`
+> **Screenshot:** <img width="940" height="600" alt="image" src="https://github.com/user-attachments/assets/10866350-3ee2-4476-a820-0c9d3fca7aa9" />
+`
 
 ---
 
