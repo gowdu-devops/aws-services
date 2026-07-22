@@ -28,7 +28,8 @@ Click the following button:
 Request a certificate
 ```
 
-> **Screenshot:** `images/acm-step2.png`
+> **Screenshot:** `<img width="940" height="284" alt="image" src="https://github.com/user-attachments/assets/05ed12a0-0553-4200-885e-bddbc768522a" />
+`
 
 ---
 
@@ -46,7 +47,10 @@ Click:
 Next
 ```
 
-> **Screenshot:** `images/acm-step3.png`
+> **Screenshot:** `<img width="940" height="260" alt="image" src="https://github.com/user-attachments/assets/24161562-6fbd-4429-b7ef-f1360f614979" />
+<img width="940" height="402" alt="image" src="https://github.com/user-attachments/assets/0a746015-d2cc-4c30-84ad-2e855f276c98" />
+
+`
 
 ---
 
@@ -80,7 +84,8 @@ Click:
 Next
 ```
 
-> **Screenshot:** `images/acm-step4.png`
+> **Screenshot:** `<img width="940" height="228" alt="image" src="https://github.com/user-attachments/assets/6440f44e-f2c2-4be8-bc20-38327c84f681" />
+`
 
 ---
 
@@ -100,7 +105,10 @@ Click:
 Next
 ```
 
-> **Screenshot:** `images/acm-step5.png`
+> **Screenshot:** `<img width="940" height="151" alt="image" src="https://github.com/user-attachments/assets/168407d0-fcd4-43ac-9bd5-213ce8355fb4" />
+<img width="940" height="319" alt="image" src="https://github.com/user-attachments/assets/2736ea82-abbe-4589-877c-c7c61b0d6917" />
+
+`
 
 ---
 
@@ -114,7 +122,10 @@ Click:
 Request
 ```
 
-> **Screenshot:** `images/acm-step6.png`
+> **Screenshot:** `<img width="940" height="525" alt="image" src="https://github.com/user-attachments/assets/2ac88243-56b6-4e31-bac9-ff93075a0520" />
+<img width="940" height="475" alt="image" src="https://github.com/user-attachments/assets/939c146a-151b-44fd-80fe-8fafefba690e" />
+
+`
 
 ---
 
@@ -129,6 +140,7 @@ Create records in Route 53
 ```
 
 2. AWS automatically creates the required **CNAME** validation record.
+<img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/847d3e67-db50-4aca-9e31-b24938ffbcf1" />
 
 3. Wait until the certificate status changes to:
 
