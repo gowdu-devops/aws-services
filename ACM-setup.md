@@ -124,8 +124,6 @@ Click
 Request Certificate
 ```
 <img width="940" height="284" alt="image" src="https://github.com/user-attachments/assets/516746f1-365f-4748-b26a-4e745d3bd519" />
-<img width="940" height="260" alt="image" src="https://github.com/user-attachments/assets/ff6e0fb0-7b97-4a91-9c39-0666f592a43c" />
-<img width="940" height="402" alt="image" src="https://github.com/user-attachments/assets/2081a97e-88b2-427e-bc5b-7efdb9a8b132" />
 
 ---
 
