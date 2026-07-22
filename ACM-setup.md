@@ -16,7 +16,7 @@ Certificate Manager
 3. Open **AWS Certificate Manager (ACM)**.
 
 > **Screenshot:** <img width="940" height="600" alt="image" src="https://github.com/user-attachments/assets/10866350-3ee2-4476-a820-0c9d3fca7aa9" />
-`
+
 
 ---
 
@@ -28,8 +28,8 @@ Click the following button:
 Request a certificate
 ```
 
-> **Screenshot:** `<img width="940" height="284" alt="image" src="https://github.com/user-attachments/assets/05ed12a0-0553-4200-885e-bddbc768522a" />
-`
+> **Screenshot:** <img width="940" height="284" alt="image" src="https://github.com/user-attachments/assets/05ed12a0-0553-4200-885e-bddbc768522a" />
+
 
 ---
 
@@ -47,10 +47,9 @@ Click:
 Next
 ```
 
-> **Screenshot:** `<img width="940" height="260" alt="image" src="https://github.com/user-attachments/assets/24161562-6fbd-4429-b7ef-f1360f614979" />
+> **Screenshot:** <img width="940" height="260" alt="image" src="https://github.com/user-attachments/assets/24161562-6fbd-4429-b7ef-f1360f614979" />
 <img width="940" height="402" alt="image" src="https://github.com/user-attachments/assets/0a746015-d2cc-4c30-84ad-2e855f276c98" />
 
-`
 
 ---
 
