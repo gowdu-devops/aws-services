@@ -136,21 +136,26 @@ Choose
 ```
 Public Certificate
 ```
-<img width="940" height="228" alt="image" src="https://github.com/user-attachments/assets/91130812-0c17-4a9b-989c-603adbc0701b" />
+<img width="940" height="260" alt="image" src="https://github.com/user-attachments/assets/68d61568-de54-4ffe-8a9f-0f82d08dd713" />
+
+<img width="940" height="402" alt="image" src="https://github.com/user-attachments/assets/54c9c912-95b2-4d48-80ce-a6e5eee56bb3" />
+
 
 Click
 
 ```
 Next
 ```
-<img width="940" height="151" alt="image" src="https://github.com/user-attachments/assets/4f6e20cb-730c-4a88-95b7-708af6b1025b" />
+
 
 ---
 
 ## Step 4
 
 Enter Domain Name
-<img width="940" height="228" alt="image" src="https://github.com/user-attachments/assets/d0a48c98-8550-4055-a9db-dc4160f89140" />
+<img width="940" height="402" alt="image" src="https://github.com/user-attachments/assets/cb2b44f0-074b-4c08-9d4f-3f25bb012e64" />
+
+<img width="940" height="228" alt="image" src="https://github.com/user-attachments/assets/14e05db0-c194-45bc-87db-e35e397e54d8" />
 
 Example
 
