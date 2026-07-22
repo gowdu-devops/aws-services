@@ -111,7 +111,8 @@ Search
 ```
 Certificate Manager
 ```
-<img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/a5734cfa-d929-43fd-8c2f-955969104031" />
+<img width="940" height="600" alt="image" src="https://github.com/user-attachments/assets/a9c0e275-2f38-484a-9d9f-a3aa14212e96" />
+
 
 ---
 
