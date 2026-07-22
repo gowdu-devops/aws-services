@@ -146,8 +146,7 @@ Create records in Route 53
 ```text
 Issued
 ```
-
-> **Screenshot:** `images/acm-step7.png`
+<img width="706" height="397" alt="image" src="https://github.com/user-attachments/assets/28976bb6-a4fa-4aca-b8eb-4a332613a921" />
 
 ---
 
