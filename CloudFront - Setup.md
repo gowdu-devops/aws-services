@@ -13,6 +13,7 @@ CloudFront
 
 **Purpose:**
 Amazon CloudFront is AWS's global Content Delivery Network (CDN) service. It helps deliver websites, APIs, images, videos, and static content with low latency by serving content from the nearest AWS Edge Location.
+<img width="940" height="613" alt="image" src="https://github.com/user-attachments/assets/fc6575b7-fe84-4c7e-97c7-7cc6a95b5b3e" />
 
 ---
 
@@ -23,6 +24,7 @@ Click:
 ```text
 Create Distribution
 ```
+<img width="940" height="422" alt="image" src="https://github.com/user-attachments/assets/1076b887-2814-4357-bc0c-1b131bb95774" />
 
 A **Distribution** is the primary CloudFront resource that defines:
 
@@ -34,11 +36,19 @@ A **Distribution** is the primary CloudFront resource that defines:
 - Logging
 - AWS WAF integration
 
+<img width="940" height="392" alt="image" src="https://github.com/user-attachments/assets/27292db3-b499-4eaa-876f-01541a45a847" />
+
+<img width="940" height="455" alt="image" src="https://github.com/user-attachments/assets/2b787249-33b7-4e03-97d4-64936bc74562" />
+
+<img width="940" height="479" alt="image" src="https://github.com/user-attachments/assets/7ac9d53b-ce99-4dd9-875d-7ee19f7d3441" />
+
+
 ---
 
 # Step 3: Specify Origin
 
 The **Origin** is where your application or content is hosted.
+<img width="940" height="380" alt="image" src="https://github.com/user-attachments/assets/9fc855b7-78f7-48ad-ad09-87ec3903b11b" />
 
 CloudFront retrieves content from the origin whenever it is not available in the cache.
 
@@ -66,6 +76,10 @@ my-static-website.s3.amazonaws.com
 ### 2. Elastic Load Balancer (Recommended)
 
 Use when your application runs behind an Application Load Balancer.
+<img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/9bd7564c-a410-49de-ba54-bbc24c1c35c2" />
+
+<img width="940" height="246" alt="image" src="https://github.com/user-attachments/assets/bdeec852-8826-4e54-90e8-619a8aa3266a" />
+
 
 Typical architecture:
 
@@ -258,6 +272,7 @@ Use when you need to configure:
 # Step 8: Security
 
 CloudFront provides security integration.
+<img width="940" height="246" alt="image" src="https://github.com/user-attachments/assets/352b1805-6140-4a58-b213-5e42581f5d9d" />
 
 ### AWS Shield Standard
 
@@ -275,6 +290,7 @@ No additional configuration is required.
 ### AWS WAF
 
 Attach an existing Web ACL.
+<img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/d59f3371-9606-45a4-9fa4-3ff5f256eda7" />
 
 Example
 
@@ -319,6 +335,7 @@ Add the custom domain as an Alternate Domain Name (CNAME).
 # Step 10: SSL Certificate
 
 Attach an AWS Certificate Manager (ACM) certificate.
+<img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/86f4cf5e-ffe5-4973-80ee-4f7f329ad1c1" />
 
 **Important**
 
