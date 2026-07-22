@@ -180,6 +180,9 @@ After successful validation, the status changes to:
 
 ```text
 Issued
+
+<img width="706" height="397" alt="image" src="https://github.com/user-attachments/assets/c8584fa8-09e7-44f4-ba22-e4456e59e471" />
+
 ```
 
 ---
