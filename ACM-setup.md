@@ -84,7 +84,7 @@ Next
 ```
 
 > **Screenshot:** `<img width="940" height="228" alt="image" src="https://github.com/user-attachments/assets/6440f44e-f2c2-4be8-bc20-38327c84f681" />
-`
+
 
 ---
 
